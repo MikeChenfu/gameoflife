@@ -11,7 +11,7 @@ The purpose of this work is to simulate game of life. The universe of the Game o
 
 ```sh
 make
-./gol		    # Uses default size 
-./gol <m>		# Uses m for both the width and the height 
-./gol <m> <n>	# Uses m and n for width and height
+./gol		    	# Uses default size 
+./gol <m>			# Uses m for both the width and the height 
+./gol <m> <n>		# Uses m and n for width and height
 ```
